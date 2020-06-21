@@ -1,0 +1,14 @@
+button{
+    background-color: blue;
+    color: white;
+    padding: 6px;
+    align-self: center;
+    margin-left: 6in;
+    margin-top: 15px;
+}
+
+.table{
+    width: 2.5in;
+    padding: 15px;
+    
+}
